@@ -21,11 +21,10 @@
   <!-- Included CSS Files (Compressed) -->
   <link rel="stylesheet" href="stylesheets/foundation.min.css">
   <link rel="stylesheet" href="stylesheets/app.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/style.css"/>
+  <link rel="stylesheet" type="text/css" href="stylesheets/fc-webicons.css"/>
 
   <script src="javascripts/modernizr.foundation.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/script.js"></script>
+
 
 </head>
 <body>
