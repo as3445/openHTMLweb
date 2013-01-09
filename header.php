@@ -11,7 +11,7 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-  <title>Welcome to Foundation | Homepage</title>
+  <title>Welcome to openHTML</title>
   
   <!-- Included CSS Files (Uncompressed) -->
   <!--
@@ -20,6 +20,7 @@
   
   <!-- Included CSS Files (Compressed) -->
   <link rel="stylesheet" href="stylesheets/foundation.min.css">
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css"/>
   <link rel="stylesheet" href="stylesheets/app.css">
   <link rel="stylesheet" type="text/css" href="stylesheets/fc-webicons.css"/>
 
@@ -43,10 +44,6 @@
       </ul>
     </section>
     <section class="right">
-      
-        
-      
     </section>
   </nav>
-
   <!-- End Header and Nav -->
