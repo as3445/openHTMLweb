@@ -17,14 +17,15 @@
 
 	<div class="row panel radius" id="Susuan" style="margin-left: auto; margin-right: auto; margin-bottom:22px;">
 		<div class="two columns">
-			<img src="http://placehold.it/120x120&text=[img]">
+			<img src="/project/images/susan.png">
 		</div>
 		<div class="three columns button" style="margin: 0 auto 0 auto; text-align:left; height: 120px;">
-			<h4>Susan Won</h4>
+			<h4>Susan Wiedenbeck</h4>
+			sw53@drexel.edu
 			susan.won@drexel.edu
 		</div>
 		<div class="seven columns">
-				Something about Susan
+				Dr. Wiedenbeck teaches in the area of human-computer interaction. Her research interests include human-computer interaction, empirical studies of end-user programming, including collaborative aspects of end-user programming, and computer training and individual factors that affect learning and use of end users.
 		</div>
 	</div>
 
