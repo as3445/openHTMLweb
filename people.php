@@ -68,7 +68,7 @@
 			ankur.saxena@drexel.edu
 		</div>
 		<div class="seven columns">
-				Something about myself.
+				Awesome Dude.
 		</div>		
 	</div>
 
