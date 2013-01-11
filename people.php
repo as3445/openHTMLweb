@@ -40,8 +40,7 @@
 
 		</div>
 		<div class="seven columns">
-			On web development, interface design, user research, and all the rest.
-			I research HCI and computing education at Drexel University in Philadelphia.
+			Tom's research interest is human-computer interaction (HCI), in particular scaffolded interfaces to support learning in web development, novice programming, and end-user development (EUD).
 		</div>
 	</div>
 
