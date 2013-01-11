@@ -30,7 +30,7 @@
 </head>
 <body>
   <!-- Header and Nav -->
-  <nav class="top-bar">
+  <nav class="top-bar" style="margin: 0 0 0 0">
     <ul>
       <li id="logo"><a href="/project/">openHTML</a></li>
     </ul>

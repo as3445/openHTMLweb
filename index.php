@@ -3,7 +3,7 @@
   <!-- First Band (Slider) -->
   <!-- The Orbit slider is initialized at the bottom of the page by calling .orbit() on #slider -->
     
-  <div class="row">
+  <div class="row" style="margin-top: 50px;">
     <div class="twelve columns">
       <div id="slider">
         <img src="/project/images/interface.png" />

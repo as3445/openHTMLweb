@@ -1,6 +1,14 @@
 <?php include("header.php"); ?>
 
-	
+<header>
+	<div class="row">
+	  <div class="twelve columns">
+	    <h1>People</h1>
+	    <h4></h4>
+	  </div>
+	</div>
+</header>
+
 	<div class="row panel radius" id="Andrea" style="margin: 0 auto 20px auto;" >
 		<div class="two columns">
 				<img src="/project/images/andrea.jpg">
