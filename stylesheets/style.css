@@ -28,11 +28,28 @@ header h1{
 	margin-bottom: 0;
 }
 
+.profile {
+	margin-bottom: 20px;
+}
+
+.profile h4 {
+	margin-bottom: 0;
+}
+
+.profile img {
+	width: 100%;
+}
+
+ul {
+	margin-left: 30px;
+}
+
+/*
 .photo {
 	margin: 0;
 	padding: 0;
 }
 
 .photo img{
-	/*width:100%;*/
+	width:100%;
 }
