@@ -33,17 +33,17 @@
       <nav class="top-bar">
   
         <ul>
-          <li id="logo"><a href="/project/">openHTML</a></li>
+          <li id="logo"><a href="./">openHTML</a></li>
         </ul>
         
           <ul class="left">
-            <li><a href="/project/research.php">Research</a></li>
-            <li><a href="/project/features.php">Features</a></li>
-            <li><a href="/project/people.php">People</a></li>
+            <!-- <li><a href="/project/features.php">Features</a></li> -->
+            <li><a class="anchor" href="#people">People</a></li>
+            <li><a class="anchor" href="#research">Research</a></li>
             <li class="toggle-topbar"><a href="#"></a></li>
           </ul>
           <ul class="right">
-            <li><a class="button small" href="/openhtml/">Try Editor</a></li>
+            <li><a class="button small" href="./openhtml/">Editor</a></li>
           </ul>
 
     </nav>
