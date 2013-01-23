@@ -2,73 +2,211 @@
   
   <!-- First Band (Slider) -->
   <!-- The Orbit slider is initialized at the bottom of the page by calling .orbit() on #slider -->
+
+<div style="padding: 60px 0 10px; background-color: #DEF1FC;">
     
-  <div class="row" style="margin-top: 50px;">
+  <div class="row" style="margin-bottom: 30px;">
     <div class="twelve columns">
-      <div id="slider">
-        <img src="/project/images/interface.png" />
-        <img src="http://placehold.it/1000x400&text=[img 2]" />
+      <!-- <div id="slider"> -->
+      <div>
+        <img src="images/interface.png" />
+<!--    <img src="http://placehold.it/1000x400&text=[img 2]" />
         <img src="http://placehold.it/1000x400&text=[img 3]" />
-        <img src="http://placehold.it/1000x400&text=[img 4]" />
+        <img src="http://placehold.it/1000x400&text=[img 4]" /> -->
       </div>
       
-      <hr />
     </div>
   </div>
   
   
   <!-- Three-up Content Blocks -->
   
-  <div class="row">
+  <div class="row" style="margin-bottom: 60px;">
   
     <div class="four columns">
-      <img src="/project/images/openhtml.png" />
+      <!-- <img src="images/openhtml.png" /> -->
       <h4>Technology</h4>
-      <p>Building tools for basic web development. For now, check out openHTML editor, a web-based HTML and CSS tool with a simple interface. The source is available on GitHub.</p>
+      <p>Building tools to support learning in basic web development. Check out openHTML editor, a web-based HTML and CSS tool with a simple interface.</p>
     </div>
     
     <div class="four columns">
-      <img src="http://placehold.it/400x300&text=[img]" />
+      <!-- <img src="http://placehold.it/400x300&text=[img]" /> -->
       <h4>Education</h4>
-      <p>Developing learning activities and challenges that excite students while teaching the fundamentals of computation and the web.</p>
+      <p>Developing learning activities that motivate students while teaching the fundamentals of computation and the web based on research.</p>
     </div>
     
     <div class="four columns">
-      <img src="http://placehold.it/400x300&text=[img]" />
+      <!-- <img src="http://placehold.it/400x300&text=[img]" /> -->
       <h4>Research</h4>
-      <p>Exploring ways to assess learning and knowledge in this context, and designing tools and activities with empirical support. We’re using a variety of methods from naturalistic observations, to lab-based task studies, to analysis of Q&A forums and activity logs.
-
-</p>
+      <p>Exploring ways to assess learning, using mixed methods that include naturalistic observations, lab studies, and analysis of Q&amp;A forums and activity logs.</p>
     </div>
     
   </div>
-  
-  
-  <!-- Call to Action Panel -->
-  <div class="row">
+
+</div>
+
+
+
+
+  <!-- People -->
+  <div id="people" class="row" style="margin-top: 100px;">
     <div class="twelve columns">
-      <div class="panel">      
+      <h2>People</h2>    
+    </div>
+  </div>
+
+  <div class="row profile">
+    <div class="two columns photo">
+      <img src="images/andrea.jpg">
+    </div>
+    <div class="ten columns">
+      
         <div class="row">
-          <div class="four columns" style="text-align:center;">
-            <img src="./images/nsflogo.gif" style="height:100px;">
+          <div class="four columns">
+            <h4>Andrea Forte</h4>
+            <p>PI</p>
+            <a href="mailto:andrea.forte@drexel.edu">Email</a>
           </div>
-          <div class="four columns" style="text-align:center;">
-            <img src="./images/drexellogo.png" style="height:100px;">
-          </div>
-          <div class="four columns" style="text-align:center;">
-            <a href="#" class="large radius button">Contact Us</a>
-            <br/><br/>Feedbacks<br/>Comments<br/>Suggestions
+          <div class="eight columns">
+            Dr. Forte is interested in understanding new forms of information production and sharing that are made possible by participatory media.
+            Her work addresses questions that span human-computer interaction, computer-supported cooperative work, online communities, and learning sciences. She teaches in the areas of social computing and HCI. Dr. Forte’s professional experience includes human-computer interaction design and managing special library collections.
           </div>
         </div>
+    </div>
+  </div>
+
+
+
+  <div class="row profile">
+    <div class="two columns">
+      <img src="images/susan.png">
+    </div>
+    <div class="ten columns">
+      
+        <div class="row">
+          
+          <div class="four columns">
+            <h4>Susan Wiedenbeck</h4>
+            <p>Co-PI</p>
+            <a href="mailto:susan.wiedenbeck@drexel.edu">Email</a>
+          </div>
+          <div class="eight columns">
+              Dr. Wiedenbeck teaches in the area of human-computer interaction. Her research interests include human-computer interaction, empirical studies of end-user programming, including collaborative aspects of end-user programming, and computer training and individual factors that affect learning and use of end users.
+          </div>
+        </div>
+      
+    </div>
+  </div>
+
+  <div class="row profile">
+    <div class="two columns">
+            <img src="images/tom.jpeg">
+          </div>
+    <div class="ten columns">
+      
+        <div class="row">
+          
+          <div class="four columns">
+            <h4>Thomas Park</h4>
+            <p>PhD Student</p>
+            <a href="mailto:thomas.park@drexel.edu">Email</a>
+          </div>
+          <div class="eight columns">
+            Tom's research interest is human-computer interaction (HCI), in particular interfaces to support learning in web development, novice programming, and end-user development (EUD).
+          </div>
+        </div>
+      
+    </div>
+  </div>
+
+    
+
+  <div class="row profile">
+    <div class="two columns">
+            <img src="images/swathi.jpg">
+          </div>
+    <div class="ten columns">
+      
+        <div class="row">
+          
+          <div class="four columns">
+            <h4>Swathi Jagannath</h4>
+            <p>Masters Student</p>
+            <a href="mailto:swathi.jagannath@drexel.edu">Email</a>
+          </div>
+          <div class="eight columns">
+            Works for Children's Hospital of Philadelphia as a Graduate Information Systems co-op. Interests include human-computer interaction, artificial intelligence, and healthcare informatics.
+        </div>
+        </div>
+      
+    </div>
+  </div>
+
+  <div class="row profile">
+    <div class="two columns">
+            <img src="images/ankur.png">
+          </div>
+    <div class="ten columns">
+      
+        <div class="row">
+          
+          <div class="four columns">
+            <h4>Ankur Saxena</h4>
+            <p>Undergraduate Student</p>
+            <a href="mailto:ankur.saxena@drexel.edu">Email</a>
+          </div>
+          <div class="eight columns">
+              Undergraduate co-op student whose interests include programming, cognitive science, and martial arts.
+          </div>    
+        </div>
+      
+    </div>
+  </div>
+
+
+
+  <!-- Research -->
+  <div id="research" class="row" style="margin-top: 100px;">
+    <div class="twelve columns">
+      <h2>Research &amp; Outreach</h2>
+      <ul>
+        <li>NSF 21 Community Meeting</li>
+        <li>CHI 2012 Work-in-progress</li>
+        <li>After-school workshop</li>
+        <li>ICER 2012</li>
+        <li>ICER 2011</li>
+      </ul>
+    </div>
+  </div>
+
+
+  
+  
+  <!-- Footer -->
+  <div style="margin-top: 60px; padding: 100px 0; background-color: #eee;">
+  <div class="row">
+    <div class="twelve columns">   
+      <div class="row">
+        <div class="six columns" style="text-align:center;">
+          <img src="./images/nsflogo.gif" style="height:100px;">
+        </div>
+        <div class="six columns" style="text-align:center;">
+          <img src="./images/drexellogo.png" style="height:100px;">
+        </div>
+<!--           <div class="four columns" style="text-align:center;">
+          <a href="#" class="large radius button">Contact Us</a>
+          <br/><br/>Feedbacks<br/>Comments<br/>Suggestions
+        </div> -->
       </div>
       
     </div>
   </div>
+</div>
   
   
   <!-- Footer -->
   
-  <footer class="row">
+<!--   <footer class="row">
     <div class="twelve columns">
       <hr />
       <div class="row">
@@ -85,7 +223,7 @@
         </div>
       </div>
     </div> 
-  </footer>
+  </footer> -->
   
   <!-- Included JS Files (Uncompressed) -->
   <!--
@@ -134,6 +272,13 @@
   <script type="text/javascript">
      $(window).load(function() {
          $('#slider').orbit();
+     });
+
+     $('.anchor').click(function(e){
+        e.preventDefault();
+        var target = $(this).attr('href');
+        var offset = $(target).offset();
+        $("html, body").animate({ scrollTop: offset.top }, 600);
      });
   </script>
   
