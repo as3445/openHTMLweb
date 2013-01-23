@@ -21,7 +21,6 @@
   <!-- Included CSS Files (Compressed) -->
   <link rel="stylesheet" href="stylesheets/foundation.min.css">
   <link rel="stylesheet" type="text/css" href="stylesheets/style.css"/>
-  <link rel="stylesheet" href="stylesheets/app.css">
   <link rel="stylesheet" type="text/css" href="stylesheets/fc-webicons.css"/>
 
   <script src="javascripts/modernizr.foundation.js"></script>
@@ -30,20 +29,23 @@
 </head>
 <body>
   <!-- Header and Nav -->
-  <nav class="top-bar" style="margin: 0 0 0 0">
-    <ul>
-      <li id="logo"><a href="/project/">openHTML</a></li>
-    </ul>
+    <div class="contain-to-grid">
+      <nav class="top-bar">
+  
+        <ul>
+          <li id="logo"><a href="/project/">openHTML</a></li>
+        </ul>
+        
+          <ul class="left">
+            <li><a href="/project/research.php">Research</a></li>
+            <li><a href="/project/features.php">Features</a></li>
+            <li><a href="/project/people.php">People</a></li>
+            <li class="toggle-topbar"><a href="#"></a></li>
+          </ul>
+          <ul class="right">
+            <li><a class="button small" href="/openhtml/">Try Editor</a></li>
+          </ul>
 
-    <section>
-      <ul class="left">
-        <li><a href="/project/research.php">Research</a></li>
-        <li><a href="/project/features.php">Features</a></li>
-        <li><a href="/project/people.php">People</a></li>
-        <li><a class="radius button" href="/openhtml/">Try Editor</a></li>
-      </ul>
-    </section>
-    <section class="right">
-    </section>
-  </nav>
+    </nav>
+</div>
   <!-- End Header and Nav -->
