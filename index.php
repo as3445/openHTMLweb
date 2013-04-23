@@ -168,13 +168,32 @@
   <!-- Research -->
   <div id="research" class="row" style="margin-top: 100px;">
     <div class="twelve columns">
-      <h2>Research &amp; Outreach</h2>
+      <h2>Research</h2>
       <ul>
-        <li>NSF 21 Community Meeting</li>
-        <li>CHI 2012 Work-in-progress</li>
-        <li>After-school workshop</li>
-        <li>ICER 2012</li>
-        <li>ICER 2011</li>
+
+       <!--  <li>
+          <b><a href="http://icer.hosting.acm.org/">Towards a Taonomy of Errors in HTML and CSS (under review)</a></b><br />
+          Thomas H. Park, Ankur Saxena, Swathi Jagannath, Susan Wiedenbeck, and Andrea Forte <br />
+          International Computing Education Research (ICER), 2013
+        </li> -->
+        <li>
+          <b><a href="http://idc2013.org/">Children as Webmakers: Designing a Web Editor for Beginners (forthcoming)</a></b><br />
+            Thomas H. Park, Rachel M. Magee, Susan Wiedenbeck, and Andrea Forte <br />
+            Interaction Design and Children (IDC), 2013
+        </li>
+        <li>
+          <b><a href="http://andreaforte.net/ParkCHIopenHTML13.pdf">openHTML: Designing a Transitional Web Editor for Novices</a></b> <br />
+          Thomas H. Park, Ankur Saxena, Susan Wiedenbeck, and Andrea Forte <br />
+          ACM Conference on Human Factors in Computing Systems (CHI), 2013
+        </li>
+        <li><b><a href="http://dl.acm.org/citation.cfm?id=2361276.2361312">Assessing and Enhancing Computational Literacy in Basic Web Development</a></b><br />
+            Thomas H. Park <br />
+            International Computing Education Research (ICER), 2012
+        </li>
+        <li>
+          <b><a href="http://dl.acm.org/citation.cfm?id=2016937">Learning Web Development: Challenges at an Earlier Stage of Computing Education</a></b><br />
+          Thomas H. Park and Susan Wiedenbeck <br />
+          International Computing Education Research (ICER), 2011 </li>
       </ul>
     </div>
   </div>
