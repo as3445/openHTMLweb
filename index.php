@@ -220,7 +220,7 @@
       <ul>
 
         <li>
-          <b><a href="http://icer.hosting.acm.org/">Towards a Taonomy of Errors in HTML and CSS</a></b><br />
+          <b><a href="http://icer.hosting.acm.org/">Towards a Taxonomy of Errors in HTML and CSS</a></b><br />
           Thomas H. Park, Ankur Saxena, Swathi Jagannath, Susan Wiedenbeck, and Andrea Forte <br />
           International Computing Education Research (ICER), 2013
         </li>
