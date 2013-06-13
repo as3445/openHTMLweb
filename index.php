@@ -219,13 +219,13 @@
       <h2>Research</h2>
       <ul>
 
-       <!--  <li>
-          <b><a href="http://icer.hosting.acm.org/">Towards a Taonomy of Errors in HTML and CSS (under review)</a></b><br />
+        <li>
+          <b><a href="http://icer.hosting.acm.org/">Towards a Taonomy of Errors in HTML and CSS</a></b><br />
           Thomas H. Park, Ankur Saxena, Swathi Jagannath, Susan Wiedenbeck, and Andrea Forte <br />
           International Computing Education Research (ICER), 2013
-        </li> -->
+        </li>
         <li>
-          <b><a href="http://idc2013.org/">Children as Webmakers: Designing a Web Editor for Beginners (forthcoming)</a></b><br />
+          <b><a href="http://idc2013.org/">Children as Webmakers: Designing a Web Editor for Beginners</a></b><br />
             Thomas H. Park, Rachel M. Magee, Susan Wiedenbeck, and Andrea Forte <br />
             Interaction Design and Children (IDC), 2013
         </li>
